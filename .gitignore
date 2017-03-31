@@ -1,0 +1,11 @@
+/*.tgitconfig
+*.classpath
+target
+.settings
+.idea
+*.iml
+.project
+.myeclipse
+.settings
+.mymetadata
+/.idea
